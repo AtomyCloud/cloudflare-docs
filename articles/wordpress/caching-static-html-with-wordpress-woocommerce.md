@@ -46,6 +46,8 @@ ___
 
 {{</Aside>}}
 
+![Edit Page Rule](media/edit-page-rules-img01.jpg)
+
 -   Finally, setting _Edge Cache TTL_ will define the maximum period of time Cloudflare should keep cached files before getting them back from the origin web server. Even after setting a long Edge Cache TTL time, you can still [manually clear the cache](https://support.cloudflare.com/hc/en-us/articles/200169246-How-do-I-purge-my-cache-) or use our WordPress plugin to automatically manage cache purging.
 
 5\. Click **Save and Deploy** to finish. 
